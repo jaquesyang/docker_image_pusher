@@ -7,3 +7,4 @@ php:7.4-fpm
 redis
 xhofe/alist
 xiaoyaliu/alist
+postgres:16

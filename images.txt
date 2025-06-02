@@ -9,3 +9,5 @@ xhofe/alist
 xiaoyaliu/alist
 postgres:16
 node:20-bookworm-slim
+aooiu/any-reader
+

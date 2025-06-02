@@ -6,5 +6,5 @@ php:7.4-fpm
 redis
 postgres:16
 node:20-bookworm-slim
-aooiu/any-reader
+linuxserver/calibre-web
 

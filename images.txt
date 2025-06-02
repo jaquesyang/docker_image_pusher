@@ -1,12 +1,9 @@
 nginx:1.18
-haroldli/xiaoya-tvbox
 maven:3.8.1-jdk-8-slim
 mysql:8.0
 php:8.2-fpm
 php:7.4-fpm
 redis
-xhofe/alist
-xiaoyaliu/alist
 postgres:16
 node:20-bookworm-slim
 aooiu/any-reader

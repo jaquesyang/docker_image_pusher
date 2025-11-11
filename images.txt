@@ -8,6 +8,6 @@ postgres:16
 node:20-bookworm-slim
 linuxserver/calibre-web
 jellyfin/jellyfin:latest
-docker.n8n.io/n8nio/n8n
+n8nio/n8n
 
 

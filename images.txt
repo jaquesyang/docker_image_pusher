@@ -11,4 +11,4 @@ n8nio/n8n
 ubuntu:noble
 odoo:17
 odoo:18
-
+postgres:17
